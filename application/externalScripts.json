@@ -3,5 +3,8 @@
     "public_src/bower_components/angular-route/angular-route.min.js",
     "node_modules/angular-mocks/angular-mocks.js",
     "public_src/bower_components/jquery/dist/jquery.min.js",
-    "public_src/bower_components/bootstrap/dist/js/bootstrap.min.js"
+    "public_src/bower_components/bootstrap/dist/js/bootstrap.min.js",
+    "public_src/bower_components/leaflet/dist/leaflet-src.js",
+    "public_src/bower_components/jquery/dist/jquery.min.js",
+    "public_src/bower_components/mapbox.js/mapbox.js"
 ]

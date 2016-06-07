@@ -6,7 +6,8 @@ angular.module('app', ['ngRoute'])
                 controller: 'HomepageCtrl'
             })
             .when('/map', {
-            	templateUrl: 'views/pages/mapTemplate.html'
+            	templateUrl: 'views/pages/mapTemplate.html',
+                controller: 'MapCtrl'
             })
             .otherwise({
                 redirectTo: '/'
